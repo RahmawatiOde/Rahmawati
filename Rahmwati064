@@ -41,7 +41,7 @@
             for ($i=0; $i < 10 ; $i++) { 
                 echo "<tr>";
                 echo "<td>Rahwamati Ode</td>";
-                echo "<td>19024014068</td>";
+                echo "<td>19024014064</td>";
                 echo "<td>Teknik</td>";
                 echo "<td>Informatika</td>";
                 echo "<td>Kelas B</td>";
